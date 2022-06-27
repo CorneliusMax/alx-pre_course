@@ -1,1 +1,1 @@
-The first directory to create
+Additional information first directory to create
